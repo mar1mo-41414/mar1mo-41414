@@ -1,16 +1,30 @@
-## Hi there 👋
+## 1.1 お前誰？まりもだよ！
+* 自作、解析、改造とかが大好きなクソガキ(21)だよ！
+* 一般のご家庭だよ！(逸汎の誤家庭じゃないよ。)
 
-<!--
-**mar1mo-41414/mar1mo-41414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 1.2 Claude先生大好き！
+### このリポジトリのほぼ全てのコードはClaude Code 製です。
+* 都度テストを回し実機でも検証、動作確認はしていますが、安全保障はありません...
+* 使用は自己責任です！
+* あくまで趣味の延長です...
+* PR/フォーク/改変/再配布 大歓迎です！
+* どんどん良くしてください！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 僕は基本、コーディングできません。
+* 構想はいっぱいあるのに、それを現実に召喚する能力はありません。
+* Claude先生は僕のコンパイラです。構想を現実に実装、召喚するコンパイラ。
+* 僕はどっちかというと鯖いじる方が好きです。
+* Linux万歳！
+
+### 何に使うのこれ... は褒め言葉です。
+* 僕が作るものは基本、
+ * 既存の何かの再開発
+ * 既存の何かのちょっと改変
+ * すごく範囲の狭い何か。
+ * わざわざこれをいじるの...?
+* な系統です。
+
+## 1.3 書くことがなくなった。
+* どんなのに興味があるかは、リポ読んでくれ...w
+* みたらなんとなくわかるよ。知らんけど。
